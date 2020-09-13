@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
+id=DiagPort
+name=Enable DIAG PORT
+version=v1.0
 versionCode=7
-author=Zackptg5
+author=Benya_96
 description=
 support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
